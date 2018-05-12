@@ -1,0 +1,32 @@
+_repo: The-Tale-of-Jasper-JayTuck-Me-In-Tales_21836
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21836-h/images/illus-big-cover.jpg
+creator:
+  author:
+    agent_name: Bailey, Arthur Scott
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '1842'
+    url: http://www.gutenberg.org/2009/agents/1842
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Birds -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+title: 'The Tale of Jasper Jay
+
+  Tuck-Me-In Tales'
+url: http://www.gutenberg.org/ebooks/21836
